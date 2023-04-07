@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>8010725b-377f-439b-a2bd-4a50d5bacc7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Đăng nhập ' or . = 'Đăng nhập ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-login</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>46d2e83e-c625-4341-8775-3ce37de84add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-login</value>
+      <webElementGuid>03a84b50-d6c0-49f4-b150-0dc6cd173bd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập </value>
+      <webElementGuid>1610ec35-649a-4feb-a174-55b86ffbd6cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-component&quot;)/kt-auth[1]/div[@class=&quot;bg-container&quot;]/div[@class=&quot;bg-login&quot;]/kt-login[1]/div[@class=&quot;sb-login-custom-form&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;text-center m-0&quot;]/button[@class=&quot;button-login&quot;]</value>
+      <webElementGuid>23bf7623-34ed-488a-ad47-a0d81f8b061a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app-component']/kt-auth/div/div[2]/kt-login/div/div[6]/div/button</value>
+      <webElementGuid>9d4f36c3-4c05-4fb7-86e3-80a2637bdcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/following::button[1]</value>
+      <webElementGuid>ef0798b2-1599-4a7c-898d-27bc89f37860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/following::button[1]</value>
+      <webElementGuid>e17c4342-9a15-40bf-ad28-81a2872eb713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© Copyright by SeABank 2023'])[1]/preceding::button[1]</value>
+      <webElementGuid>13fb1302-d2d0-4322-a591-97eedc0e1c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
+      <webElementGuid>3afa069a-0cd0-4444-bb2c-4dcbaeff34dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>d7f32051-44d5-48fc-bff5-62b32dacfff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Đăng nhập ' or . = 'Đăng nhập ')]</value>
+      <webElementGuid>98df0fde-3a28-4029-b6af-2ad1687495b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

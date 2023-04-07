@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_logo</name>
+   <tag></tag>
+   <elementGuidId>d165f906-4a83-45b2-89e0-3a086dd37db2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header']/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sb-logo-header-div.text-center.sb-cursor-pointer > img.sb-logo-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>dd99ba1e-fd78-4dc2-8294-8d8529d8b342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sb-logo-header</value>
+      <webElementGuid>74d48f9e-276d-4b03-a770-07da8d3a4b86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/media/themes-seadigital/home/logo_home.svg</value>
+      <webElementGuid>d8355360-94d5-4a12-8c9b-892b9ad5cc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header&quot;)/div[@class=&quot;sb-logo-header-div text-center sb-cursor-pointer&quot;]/img[@class=&quot;sb-logo-header&quot;]</value>
+      <webElementGuid>92202db2-44a5-4086-a130-69f720f93764</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header']/div/img</value>
+      <webElementGuid>b5995848-b324-4978-bf78-c7d8c74fa03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kt-header/div/div/img</value>
+      <webElementGuid>27094410-8fb2-4278-b468-268ce5e6bffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/media/themes-seadigital/home/logo_home.svg']</value>
+      <webElementGuid>f06b22c3-3bb9-4f1d-84eb-30f4927b07da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

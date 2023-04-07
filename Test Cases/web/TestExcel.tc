@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestExcel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80e8192d-0fe5-4ea8-b126-879e50147364</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da98d378-d2f7-4c5e-a8a6-7ed65dc70f6d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da98d378-d2f7-4c5e-a8a6-7ed65dc70f6d</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

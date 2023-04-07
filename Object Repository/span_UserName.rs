@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_UserName</name>
+   <tag></tag>
+   <elementGuidId>f4691ff2-088c-41b1-9d7a-b37494caba94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header']/kt-topbar/div/kt-user-profile/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kt_header > kt-topbar > div.kt-header__topbar > kt-user-profile > div.kt-header__topbar-item.kt-header__topbar-item--user > div.kt-header__topbar-item.kt-header__topbar-item--user.dropdown > div > span.kt-header__topbar-username.kt-hidden-mobile.dropdown-toggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ba524513-a812-446f-8909-bdee86dfb6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b6fdb024-3cd6-44bd-81a7-4b315a6af905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kt-header__topbar-username kt-hidden-mobile dropdown-toggle</value>
+      <webElementGuid>c656c4fe-2b19-4f97-86ec-6b326d684a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9a706676-790f-448e-b296-e30076f1844a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DINH LE HOANG</value>
+      <webElementGuid>1bd56941-09d6-4029-a6c3-3f53b32e25a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header&quot;)/kt-topbar[1]/div[@class=&quot;kt-header__topbar&quot;]/kt-user-profile[1]/div[@class=&quot;kt-header__topbar-item kt-header__topbar-item--user&quot;]/div[@class=&quot;kt-header__topbar-item kt-header__topbar-item--user dropdown&quot;]/div[1]/span[@class=&quot;kt-header__topbar-username kt-hidden-mobile dropdown-toggle&quot;]</value>
+      <webElementGuid>4d06b6c6-c7c6-42e5-80ef-e80aedf52a1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header']/kt-topbar/div/kt-user-profile/div/div[2]/div/span</value>
+      <webElementGuid>cf7ba360-1825-4cca-98c7-17db7f6be4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem ảnh đại diện'])[2]/following::span[1]</value>
+      <webElementGuid>cb8f6080-a63e-4c91-96b5-9e02a5e24db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_circle'])[2]/following::span[1]</value>
+      <webElementGuid>714724b7-e61d-4d96-85ab-44105cb5e363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số dư   * * * * * *'])[2]/preceding::span[2]</value>
+      <webElementGuid>4bb3b5f9-da20-4bfd-b3e6-ff37bf7b42d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thay đổi tài Khoản mặc định'])[2]/preceding::span[5]</value>
+      <webElementGuid>1e4e126c-5d15-429d-b6c5-b8f1a3e828fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//kt-header/div/kt-topbar/div/kt-user-profile/div/div[2]/div/span</value>
+      <webElementGuid>744038b3-1cff-42b4-93ca-99a9320479e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DINH LE HOANG' or . = 'DINH LE HOANG')]</value>
+      <webElementGuid>f0e4cb66-6a59-44f3-9700-a505ef463a1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
