@@ -18,14 +18,4 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://seanet.vn/')
-
-WebUI.click(findTestObject('Object Repository/div_DNH CHO                    KHCH HNG C NHN'))
-
-WebUI.setText(findTestObject('Object Repository/input_Qun mt khu_username'), 'helo')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/input_Qun mt khu_new-password'), 'H6/2S7XTE3a9wGfLhoH8sg==')
-
-WebUI.takeFullPageScreenshot()
+1 == 2
